@@ -40,6 +40,6 @@ public class Soal1Tim5 { // Mendeklarasi kelas yang bernama Soal1Tim5
             }
         }
 
-        scanner.close(); // Menutup objek Scanner yang telah dibuat pada awal program
+        scanner.close(); // Menutup objek Scanner yang telah dibuat pada awal program 
     }
 }
